@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+    <test name="Yahoo Scenarios" preserve-order="true">
+        <classes>
+            <class name="Day13_04172023.T1_ExtentReport_Yahoo" />
+            <class name="Day13_04172023.T2_ExtentReport_Yahoo_Enhanced" />
+            <class name="Day14_04182023.T1_Yahoo_Screenshot" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
